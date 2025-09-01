@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "v57W/LGwX7SMgsrmJT+kIe+xLBZ9AhBZg3NUL2Q+SbU=",
+  "Source": "TinyMartAPI",
+  "BasePath": "_content/TinyMartAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
